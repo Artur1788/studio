@@ -1,0 +1,63 @@
+<svg width="176" height="46" viewBox="0 0 176 46" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 427319476">
+<rect id="Rectangle 3102" x="46.2939" y="3.20898" width="83.411" height="41.4418" rx="9" stroke="#59D07F" stroke-width="2"/>
+<g id="Group 427319470">
+<path id="Line 58" d="M1.11621 24.2979H5.38917" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Line 59" d="M13.2227 24.2979H17.4956" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Line 60" d="M25.3291 24.2979H29.6021" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Line 61" d="M37.4365 24.2979H41.7095" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Line 62" d="M49.543 24.2979H53.8159" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Line 63" d="M61.6504 24.2979H65.9234" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Line 64" d="M73.7568 24.2979H78.0298" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Line 65" d="M85.8633 24.2979H90.1362" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Line 66" d="M97.9707 24.2979H102.244" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Line 67" d="M110.077 24.2979H114.35" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Line 68" d="M122.184 24.2979H126.457" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Line 69" d="M134.291 24.2979H138.564" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Line 70" d="M146.397 24.2979H150.67" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Line 71" d="M158.504 24.2979H162.777" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Line 72" d="M170.61 24.2979H174.883" stroke="white" stroke-width="2" stroke-linecap="round"/>
+</g>
+<g id="Group 427319472">
+<g id="Rectangle 3103">
+<rect x="79.9004" y="5.89038" width="16.1986" height="9.57192" fill="#59D07F"/>
+<rect x="79.9004" y="5.89038" width="16.1986" height="9.57192" fill="#59D07F"/>
+</g>
+<g id="Group 427319471">
+<g id="Mask group">
+<mask id="mask0_2037_1885" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="82" y="0" width="12" height="12">
+<g id="Rectangle 3104">
+<rect x="93.8896" y="11.7808" width="11.7808" height="11.7808" rx="5.89041" transform="rotate(180 93.8896 11.7808)" fill="#59D07F"/>
+<rect x="93.8896" y="11.7808" width="11.7808" height="11.7808" rx="5.89041" transform="rotate(180 93.8896 11.7808)" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_2037_1885)">
+<rect id="Rectangle 3105" x="98.3076" y="13.2534" width="22.089" height="7.36301" transform="rotate(180 98.3076 13.2534)" fill="white"/>
+</g>
+</g>
+<g id="Mask group_2">
+<mask id="mask1_2037_1885" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="93" y="5" width="10" height="11">
+<g id="Rectangle 3104_2">
+<rect x="102.726" y="5.89038" width="9.57192" height="9.57192" rx="4.78596" transform="rotate(90 102.726 5.89038)" fill="#59D07F"/>
+<rect x="102.726" y="5.89038" width="9.57192" height="9.57192" rx="4.78596" transform="rotate(90 102.726 5.89038)" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask1_2037_1885)">
+<rect id="Rectangle 3105_2" x="103.922" y="2.30103" width="17.9473" height="5.98245" transform="rotate(90 103.922 2.30103)" fill="#59D07F"/>
+</g>
+</g>
+<g id="Mask group_3">
+<mask id="mask2_2037_1885" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="73" y="5" width="10" height="11">
+<g id="Rectangle 3104_3">
+<rect x="73.2725" y="15.4624" width="9.57192" height="9.57192" rx="4.78596" transform="rotate(-90 73.2725 15.4624)" fill="#59D07F"/>
+<rect x="73.2725" y="15.4624" width="9.57192" height="9.57192" rx="4.78596" transform="rotate(-90 73.2725 15.4624)" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask2_2037_1885)">
+<rect id="Rectangle 3105_3" x="72.0762" y="19.0518" width="17.9473" height="5.98245" transform="rotate(-90 72.0762 19.0518)" fill="#59D07F"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
